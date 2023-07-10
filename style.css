@@ -46,7 +46,7 @@ h1{
     
 }
 .list p{
-    /* text-align: center; */
+    text-align: center; 
     font-size: 1.3rem;
     padding: 10px 0px;
 
